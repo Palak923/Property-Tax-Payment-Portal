@@ -5,7 +5,7 @@ Project work for the **Junior Web Developer – E-Governance & Digital Services*
 (01 Aug 2026 – 29 Aug 2026), prepared by **Palak Ramtri**. Project complete — all four
 weeks delivered.
 
-Repo: [github.com/Priym1/Online-Property-Tax-Payment-Portal](https://github.com/Priym1/Online-Property-Tax-Payment-Portal)
+Repo: [github.com/Palak923/Property-Tax-Payment-Portal](https://github.com/Palak923/Property-Tax-Payment-Portal)
 
 This repo tracks the planning, design, testing, and audit artifacts for a citizen-facing
 e-governance digital service: an **Online Property Tax Payment Portal** that lets property

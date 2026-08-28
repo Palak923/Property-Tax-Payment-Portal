@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/31535158/README.md)
+
 # Online Property Tax Payment Portal — E-Governance Internship
 
 Project work for the **Junior Web Developer – E-Governance & Digital Services** internship
